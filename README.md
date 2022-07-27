@@ -1,6 +1,5 @@
 ## Malik Hassanaly
 _**[[Google Scholar](https://scholar.google.com/citations?user=hYX902wAAAAJ&hl=en)]  [[ResearchGate](https://www.researchgate.net/profile/Malik-Hassanaly)]**_
-[Google Scholar][ResearchGate]
 
 _**I am currently a postdoctoral researcher in computational science at the National Renewable Energy Laboratory (NREL) in Golden, CO.**_ 
 
