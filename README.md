@@ -21,7 +21,7 @@ Currently working on developing surrogate models for Li-ion batteries and on unc
 
 ## <span id="sunglasses">:sunglasses:</span> Fun stuff
 
-I also develop fun projects to organize Secret Santa <span id="santa">:santa:</span> remotely or settling slates after an intense Poker cash game <span id="spades">:spades:</span>.
+I also develop fun projects to organize Secret Santa <span id="santa">:santa:</span> remotely or settling intense Poker games <span id="spades">:spades:</span>.
 
 |**[SecretSanta](https://github.com/malihass/SecretSanta)**|**[PokerSplit](https://github.com/malihass/PokerSplit)**|
 |:---:|:---:|
