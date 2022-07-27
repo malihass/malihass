@@ -34,5 +34,5 @@ I also develop fun projects to organize Secret Santa <span id="santa">:santa:</s
 
 I'm always happy to hear about new oppportunities!
 
-malik[dot]hassanaly[at]nrel[dot]gov
+malik[dot]hassanaly[at]nrel!dot!gov
 
