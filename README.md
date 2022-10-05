@@ -26,10 +26,6 @@ I also develop fun projects to organize Secret Santa <span id="santa">:santa:</s
 |**[SecretSanta](https://github.com/malihass/SecretSanta)**|**[PokerSplit](https://github.com/malihass/PokerSplit)**|
 |:---:|:---:|
 
-## My coding habits
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=malihass&show_icons=true&theme=gotham" alt="malihass" />
-
 ## How to reach me
 
 I'm always happy to hear about new oppportunities!
