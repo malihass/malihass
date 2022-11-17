@@ -19,6 +19,10 @@ I also develop code for high-performance computing on CPU/GPU architectures. Lat
 
 Currently working on developing surrogate models for Li-ion batteries and on uncertainty quantification for Large eddy simulations. (Coming soon!)
 
+I am also working on scaling up the generative modeling regularization techniques I developed to handle realistic atmospheric datasets
+
+|**[SUP3R!](https://github.com/NREL/sup3r)**|
+
 ## <span id="sunglasses">:sunglasses:</span> Fun stuff
 
 I also develop fun projects to organize Secret Santa <span id="santa">:santa:</span> remotely or settling intense Poker games <span id="spades">:spades:</span>.
