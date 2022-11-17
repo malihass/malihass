@@ -22,6 +22,7 @@ Currently working on developing surrogate models for Li-ion batteries and on unc
 I am also working on scaling up the generative modeling regularization techniques I developed to handle realistic atmospheric datasets
 
 |**[SUP3R!](https://github.com/NREL/sup3r)**|
+|:---:|
 
 ## <span id="sunglasses">:sunglasses:</span> Fun stuff
 
