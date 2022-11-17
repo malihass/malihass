@@ -17,7 +17,7 @@ I also develop code for high-performance computing on CPU/GPU architectures. Lat
 
 I am also working on scaling up the generative modeling regularization techniques I developed to handle large atmospheric datasets
 
-|**[SUP3R!](https://github.com/NREL/sup3r)**|
+|**[sup3r](https://github.com/NREL/sup3r)**|
 |:---:|
 
 ## <span id="zap">:zap:</span>  In the pipeline 
