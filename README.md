@@ -15,14 +15,14 @@ I also develop code for high-performance computing on CPU/GPU architectures. Lat
 |**[PelePhysics](https://github.com/AMReX-Combustion/PelePhysics)**|
 |:---:|
 
-## <span id="zap">:zap:</span>  In the pipeline 
-
-Currently working on developing surrogate models for Li-ion batteries and on uncertainty quantification for Large eddy simulations. (Coming soon!)
-
-I am also working on scaling up the generative modeling regularization techniques I developed to handle realistic atmospheric datasets
+I am also working on scaling up the generative modeling regularization techniques I developed to handle large atmospheric datasets
 
 |**[SUP3R!](https://github.com/NREL/sup3r)**|
 |:---:|
+
+## <span id="zap">:zap:</span>  In the pipeline 
+
+Currently working on developing surrogate models for Li-ion batteries and on uncertainty quantification for Large eddy simulations. (Coming soon!)
 
 ## <span id="sunglasses">:sunglasses:</span> Fun stuff
 
