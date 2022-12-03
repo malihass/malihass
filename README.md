@@ -1,7 +1,7 @@
 ## Malik Hassanaly
 _**[[Homepage](https://malihass.github.io)]  [[Google Scholar](https://scholar.google.com/citations?user=hYX902wAAAAJ&hl=en)]  [[ResearchGate](https://www.researchgate.net/profile/Malik-Hassanaly)]**_
 
-_**I am currently a researcher in computational science at the National Renewable Energy Laboratory (NREL) in Golden, CO.**_ 
+_**I am currently a researcher in the Computational Science Center of the National Renewable Energy Laboratory (NREL) in Golden, CO.**_ 
 
 ## <span id="nerd_face">:nerd_face:</span> Work projects
 
