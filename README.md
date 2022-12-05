@@ -7,7 +7,7 @@ _**I am currently a researcher in the Computational Science Center of the Nation
 
 I work on scientific machine learning projects using mostly Tensorflow and sometimes Pytorch. I have developed generative modeling techniques for data augmentation, data reduction and rare event probability estimation.
 
-|**[diversity_SR](https://github.com/NREL/diversity_SR)**|**[Phase-space-sampling](https://github.com/NREL/Phase-space-sampling)**|**[GANISP](https://github.com/NREL/GANISP)**|
+|**[diversitySR](https://github.com/NREL/diversity_SR)**|**[Phase-space-sampling](https://github.com/NREL/Phase-space-sampling)**|**[GANISP](https://github.com/NREL/GANISP)**|
 |:---:|:---:|:---:|
 
 I also develop code for high-performance computing on CPU/GPU architectures. Lately, I have been developing HPC code for analytically reduced chemistry using symbolic mathematics.
