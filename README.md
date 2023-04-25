@@ -1,7 +1,7 @@
 ## Malik Hassanaly
 _**[[Homepage](https://malihass.github.io)]  [[Google Scholar](https://scholar.google.com/citations?user=hYX902wAAAAJ&hl=en)]  [[ResearchGate](https://www.researchgate.net/profile/Malik-Hassanaly)]**_
 
-_**I am currently a Researcher in Computational Science and Machine Learning**_ 
+_**I am currently a Researcher in Computational Science and Machine Learning at the National Renewable Energy Laboratory (NREL)**_ 
 
 ## <span id="nerd_face">:nerd_face:</span> Work projects
 
@@ -18,6 +18,11 @@ I also develop code for high-performance computing on CPU/GPU architectures. Lat
 I am also working on scaling up the generative modeling regularization techniques I developed to handle large atmospheric datasets
 
 |**[sup3r](https://github.com/NREL/sup3r)**|
+|:---:|
+
+I develop tools quickly generate OpenFOAM meshes that adapt to geometrical parameter variations. This is particularly useful for geometry optimization. 
+
+|**[spargerDesign](https://github.com/malihass/spargerDesign)**|
 |:---:|
 
 ## <span id="zap">:zap:</span>  In the pipeline 
