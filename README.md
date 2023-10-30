@@ -12,7 +12,7 @@ I work on scientific machine learning projects using mostly Tensorflow and somet
 
 I develop surrogate models using physics-informed neural nets to accelerate parameter identification for Li-ion battery models. 
 
-|**[PelePhysics](https://github.com/NREL/PINNSTRIPES)**|
+|**[PINNSTRIPES](https://github.com/NREL/PINNSTRIPES)**|
 |:---:|
 
 I also develop code for high-performance computing on CPU/GPU architectures. Lately, I have been developing HPC code for analytically reduced chemistry using symbolic mathematics.
