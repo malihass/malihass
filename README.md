@@ -41,6 +41,11 @@ I also develop fun projects to organize Secret Santa <span id="santa">:santa:</s
 |**[SecretSanta](https://github.com/malihass/SecretSanta)**|**[PokerSplit](https://github.com/malihass/PokerSplit)**|
 |:---:|:---:|
 
+## <span id="toolbox">::toolbox::</span> Work tools
+
+|**[prettyPlot](https://github.com/malihass/prettyPlot)**|
+|:---:|
+
 ## How to reach me
 
 I'm always happy to hear about new oppportunities!
