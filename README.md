@@ -30,6 +30,11 @@ I develop tools quickly generate OpenFOAM meshes that adapt to geometrical param
 |**[spargerDesign](https://github.com/NREL/spargerDesign)**|
 |:---:|
 
+## <span id="toolbox">:toolbox:</span> Work tools
+
+|**[prettyPlot](https://github.com/malihass/prettyPlot)**|
+|:---:|
+
 ## <span id="zap">:zap:</span>  In the pipeline 
 
 Currently working on uncertainty quantification for Large eddy simulations. (Coming soon!)
@@ -40,11 +45,6 @@ I also develop fun projects to organize Secret Santa <span id="santa">:santa:</s
 
 |**[SecretSanta](https://github.com/malihass/SecretSanta)**|**[PokerSplit](https://github.com/malihass/PokerSplit)**|
 |:---:|:---:|
-
-## <span id="toolbox">::toolbox::</span> Work tools
-
-|**[prettyPlot](https://github.com/malihass/prettyPlot)**|
-|:---:|
 
 ## How to reach me
 
