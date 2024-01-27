@@ -24,11 +24,12 @@ I am also working on scaling up the generative modeling regularization technique
 
 |**[sup3r](https://github.com/NREL/sup3r)**|
 |:---:|
-
+<!---
 I develop tools quickly generate OpenFOAM meshes that adapt to geometrical parameter variations. This is particularly useful for geometry optimization. 
 
 |**[spargerDesign](https://github.com/NREL/spargerDesign)**|
 |:---:|
+-->
 
 ## <span id="toolbox">:toolbox:</span> Work tools
 
