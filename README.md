@@ -30,7 +30,10 @@ I develop tools generate OpenFOAM meshes that adapt to geometrical parameter var
 |**[BiRD](https://github.com/NREL/BioReactorDesign)**|
 |:---:|
 
+Working on developing uncertainty propagation tools for Large eddy simulations.
 
+|**[mluq-prop](https://github.com/NREL/mluq-prop)**|
+|:---:|
 
 ## <span id="toolbox">:toolbox:</span> Work tools
 
@@ -38,10 +41,6 @@ A tool box for journal quality plotting, for input parsing and progress bar disp
 
 |**[prettyPlot](https://github.com/malihass/prettyPlot)**|
 |:---:|
-
-## <span id="zap">:zap:</span>  In the pipeline 
-
-Currently working on uncertainty quantification for Large eddy simulations. (Coming soon!)
 
 ## <span id="sunglasses">:sunglasses:</span> Fun stuff
 
