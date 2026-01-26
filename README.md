@@ -1,18 +1,18 @@
 ## Malik Hassanaly
 _**[[Homepage](https://malihass.github.io)]  [[Google Scholar](https://scholar.google.com/citations?user=hYX902wAAAAJ&hl=en)]  [[ResearchGate](https://www.researchgate.net/profile/Malik-Hassanaly)]**_
 
-_**I am currently a Researcher in Computational Science and Machine Learning at the National Renewable Energy Laboratory (NREL)**_ 
+_**I am currently a Researcher in Computational Science and Machine Learning at the National Laboratory of the Rockies (NLR)**_ 
 
 ## <span id="nerd_face">:nerd_face:</span> Work projects
 
 I work on scientific machine learning projects using mostly Tensorflow and sometimes Pytorch. I have developed generative modeling techniques for data augmentation, data reduction and rare event probability estimation.
 
-|**[diversitySR](https://github.com/NREL/diversity_SR)**|**[Phase-space-sampling](https://github.com/NREL/Phase-space-sampling)**|**[GANISP](https://github.com/NREL/GANISP)**|
+|**[diversitySR](https://github.com/NREL/diversity_SR)**|**[Phase-space-sampling](https://github.com/NatLabRockies/Phase-space-sampling)**|**[GANISP](https://github.com/NatLabRockies/GANISP)**|
 |:---:|:---:|:---:|
 
 I develop surrogate models using physics-informed neural nets to accelerate parameter identification for Li-ion battery models. 
 
-|**[PINNSTRIPES](https://github.com/NREL/PINNSTRIPES)**|
+|**[PINNSTRIPES](https://github.com/NatLabRockies/PINNSTRIPES)**|
 |:---:|
 
 I also develop code for high-performance computing on CPU/GPU architectures. Lately, I have been developing HPC code for analytically reduced chemistry using symbolic mathematics.
@@ -22,17 +22,17 @@ I also develop code for high-performance computing on CPU/GPU architectures. Lat
 
 I am also working on scaling up the generative modeling regularization techniques I developed to handle large atmospheric datasets
 
-|**[sup3r](https://github.com/NREL/sup3r)**|
+|**[sup3r](https://github.com/NatLabRockies/sup3r)**|
 |:---:|
 
 I develop tools generate OpenFOAM meshes that adapt to geometrical parameter variations. This is particularly useful for geometry optimization. 
 
-|**[BiRD](https://github.com/NREL/BioReactorDesign)**|
+|**[BiRD](https://github.com/NatLabRockies/BioReactorDesign)**|
 |:---:|
 
 Working on developing uncertainty propagation tools for Large eddy simulations.
 
-|**[mluq-prop](https://github.com/NREL/mluq-prop)**|
+|**[mluq-prop](https://github.com/NatLabRockies/mluq-prop)**|
 |:---:|
 
 ## <span id="toolbox">:toolbox:</span> Work tools
