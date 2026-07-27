@@ -42,16 +42,17 @@ A tool box for journal quality plotting, for input parsing and progress bar disp
 |**[prettyPlot](https://github.com/malihass/prettyPlot)**|
 |:---:|
 
+<!-- 
 ## <span id="sunglasses">:sunglasses:</span> Fun stuff
 
 I also develop fun projects to organize Secret Santa <span id="santa">:santa:</span> remotely or settling intense Poker games <span id="spades">:spades:</span>.
 
 |**[SecretSanta](https://github.com/malihass/SecretSanta)**|**[PokerSplit](https://github.com/malihass/PokerSplit)**|
 |:---:|:---:|
-
+-->
 ## How to reach me
 
 I'm always happy to hear about new oppportunities!
 
-malik[dot]hassanaly[at]nrel!dot!gov
+malik[dot]hassanaly[at]gmail!dot!com
 
